@@ -13,7 +13,7 @@ A hardworking and passionate job seeker with strong organizational skills eager 
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I am Batman and go tell everyone!
 
-### Skills
+<!-- ### Skills
 
 
 <p align="left">
@@ -46,4 +46,4 @@ A hardworking and passionate job seeker with strong organizational skills eager 
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br /> -->
