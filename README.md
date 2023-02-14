@@ -8,7 +8,7 @@ A hardworking and passionate job seeker with strong organizational skills eager 
 
 * 🌍  I'm based in Toronto, ON Canada
 * ✉️  You can contact me at [racynmundina@gmail.com](mailto:racynmundina@gmail.com)
-* 🚀  I'm currently working on [Student](http://https://racynibaya-assignment-portfolio.onrender.com/)
+* 🚀  I'm currently a [Student](http://https://racynibaya-assignment-portfolio.onrender.com/)
 * 🧠  I'm learning Web development tools such as React, NodeJS, Express, Postgres, Redux, Docker
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I am Batman and go tell everyone!
