@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-A hardworking and passionate job seeker with strong organizational skills eager to secure an entry-level web developer position. Ready to help the team achieve company goals.
-
 * 🌍  I'm based in Toronto, ON Canada
 * ✉️  You can contact me at [racynmundina@gmail.com](mailto:racynmundina@gmail.com)
 * 🚀  I'm currently a [Student](http://https://racynibaya-assignment-portfolio.onrender.com/)
