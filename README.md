@@ -9,7 +9,7 @@ Web Developer
 * 🚀  I'm currently a [Student](http://https://racynibaya-assignment-portfolio.onrender.com/)
 * 🧠  I'm learning Web development tools such as React, NodeJS, Express, Postgres, Redux, Docker
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I am Batman and go tell everyone!
+
 
 <!-- ### Skills
 
